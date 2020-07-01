@@ -1,11 +1,11 @@
 # Site settings
 author: Matt Mason
-title: 
+title: Flatiron + Me
 header-img: img/home-bg.png
 email: masonmj10@gmail.com
 copyright_name: Matt Mason
 description: > # this means to ignore newlines until "baseurl:"
-  
+  my experience, my code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mattjmason
